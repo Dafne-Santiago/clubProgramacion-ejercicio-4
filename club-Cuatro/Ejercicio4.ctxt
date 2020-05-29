@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio4
+comment1.params=resultado
+comment1.target=int[]\ reordenar(int)
+comment2.params=i
+comment2.target=int\ calcular(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
